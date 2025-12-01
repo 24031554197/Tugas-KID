@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Selamat mengerjakan Tugas KID
-=======
-Selamat
-mengerjakan
->>>>>>> 9ad9c0919c820b3da2ee9a9cb2a82a59a7b2f097
+Minggu ke 14
